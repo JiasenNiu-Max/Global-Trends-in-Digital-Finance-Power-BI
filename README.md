@@ -101,9 +101,9 @@ The dashboard visualises patterns in:
 
 ```
 📂 Global-Trends-Digital-Finance
- ├── group39_report.pdf            # Full academic report
- ├── group39_dashboard.pbix        # Power BI dashboard
- ├── screenshots/                  # Dashboard preview images
+ ├── report.pdf            # Full academic report
+ ├── dashboard.pbix        # Power BI dashboard
+ ├── screenshots/          # Dashboard preview images
  ├── data/
  │    ├── GlobalFindexDatabase2025.csv
  │    └── GlobalFindex2025-glossary.xlsx
@@ -112,15 +112,6 @@ The dashboard visualises patterns in:
 
 ---
 
-## Preview
-
-![Dashboard Preview](./screenshots/dashboard.png)
-
-**Highlights (2024):**
-
-* Account Ownership: **70%**
-* Inactive Accounts: **9%**
-* Mobile Account Usage: **34%**
 
 ---
 
